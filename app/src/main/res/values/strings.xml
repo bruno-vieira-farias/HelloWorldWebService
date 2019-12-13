@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloWorldWebService</string>
+    <string name="labelBotaoPesquisar">Pesquisar</string>
+    <string name="labelRodape">Android</string>
+</resources>
